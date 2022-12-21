@@ -1,0 +1,39 @@
+
+
+# First day: $13^{th}$ March 2023
+
+| Time          | Topic         | Presenter                    |
+|:-------:|:------------------------------------:|:-----------:|
+| 11:00 - 11:30  | Session 1:   | Prof.Dr.                     |
+| 11:30 - 12:30  | Session 2:   | Dr.                          |
+| 12:30 - 13:00  | Session 3:   | Dr.                          |
+| 13:00 - 14:00  | Lunch break  |                              |
+| 14:00 - 14:30  | Session 4:   | Dr.                          |
+| 14:20 - 15:00  | Session 5:   | Dr.                          |
+| 15:00 - 16:00  | Session 6:   | Dr. and Dr.                  |
+| 16:00 - 16:15  | Coffee break |                              |
+| 16:15 - 17:00  |  Q&A         |                              |
+| 17:00 - 17:30  | Session 7:   | Dr.                          |
+| 17:30 - 18:00  | Session 8    | Dr                           |
+
+# Second day: $14^{th}$ March 2023
+
+| Time          | Topic         | Presenter                    |
+|:-------:|:------------------------------------:|:-----------:|
+| 11:00 - 11:30  | Session 1:   | Prof.Dr.                     |
+| 11:30 - 12:30  | Session 2:   | Dr.                          |
+| 12:30 - 13:00  | Session 3:   | Dr.                          |
+| 13:00 - 14:00  | Lunch break  |                              |
+| 14:00 - 14:30  | Session 4:   | Dr.                          |
+| 14:20 - 15:00  | Session 5:   | Dr.                          |
+| 15:00 - 16:00  | Session 6:   | Dr. and Dr.                  |
+| 16:00 - 16:15  | Coffee break |                              |
+| 16:15 - 17:00  |  Q&A         |                              |
+| 17:00 - 17:30  | Session 7:   | Dr.                          |
+| 17:30 - 18:00  | Session 8    | Dr                           |
+
+
+
+
+
+
